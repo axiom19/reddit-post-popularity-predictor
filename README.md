@@ -12,8 +12,6 @@ Here's a comprehensive `README.md` for your GitHub repository:
 
 Predict the popularity of Reddit posts using machine learning models. This project collects Reddit data, preprocesses it using advanced NLP techniques (including LangChain and Hugging Face transformers), performs exploratory data analysis, builds predictive models, and deploys a Flask API for real-time predictions.
 
-![Reddit Popularity Predictor Banner](images/banner.png)
-
 ## **Table of Contents**
 
 - [Project Overview](#project-overview)
