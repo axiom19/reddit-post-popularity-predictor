@@ -262,3 +262,6 @@ Included screenshots of:
 
 - **SHAP Summary Plot**  
   ![SHAP Summary Plot](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/4.png)
+
+### Demo Test Video
+  ![Demo Video](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/demo.mov)
