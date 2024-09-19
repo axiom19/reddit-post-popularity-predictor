@@ -208,17 +208,13 @@ reddit-post-popularity-predictor/
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## **Contact**
 
 **Your Name**
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** [:](shagundeepsingh80@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shagundeep)
+- **Portfolio:** [Portfolio](https://shagunnsingh007.wixsite.com/my-site)
 
 ---
 
