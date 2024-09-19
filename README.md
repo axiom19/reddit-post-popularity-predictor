@@ -268,5 +268,6 @@ If you have any feedback or questions, please feel free to reach out or open an 
 Included screenshots of:
 
 - Data visualizations from the EDA.
+[!demo/1.png]
 - SHAP summary plot.
 - API usage examples.
