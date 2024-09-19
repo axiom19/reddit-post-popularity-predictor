@@ -267,11 +267,18 @@ If you have any feedback or questions, please feel free to reach out or open an 
 
 Included screenshots of:
 
-- Data visualizations from the EDA.
-[![demo/1.png](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/1.png)]
-[![demo/2.png](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/2.png)]
-[![demo/3.png](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/3.png)]
+### Demo Screenshots
 
-- SHAP summary plot.
-[![demo/4.png](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/4.png)]
+- **Initial Data Visualization**  
+  ![Data Visualization](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/1.png)
+
+- **Feature Importance Plot**  
+  ![Feature Importance](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/2.png)
+
+- **Model Performance Plot**  
+  ![Model Performance](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/3.png)
+
+- **SHAP Summary Plot**  
+  ![SHAP Summary Plot](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/4.png)
+
 - API usage examples.
