@@ -274,5 +274,3 @@ Included screenshots of:
 
 - **SHAP Summary Plot**  
   ![SHAP Summary Plot](https://github.com/axiom19/reddit-post-popularity-predictor/blob/main/demo/4.png)
-
-- API usage examples.
