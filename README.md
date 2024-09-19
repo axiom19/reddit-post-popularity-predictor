@@ -17,7 +17,6 @@ Predict the popularity of Reddit posts using machine learning models. This proje
   - [Usage](#usage)
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## **Project Overview**
