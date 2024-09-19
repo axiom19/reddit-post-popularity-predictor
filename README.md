@@ -218,13 +218,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 
-## **Additional Notes**
-
-- **Media Files:** Include relevant images in the `images/` directory, such as data visualizations or architecture diagrams.
-- **Acknowledgments:** Credit any external libraries or resources used in the project.
-
----
-
 ## **How to Use This Project**
 
 1. **Clone the Repository:**
